@@ -27,8 +27,6 @@ scissors = '''
 ---.__(___)
 '''
 
-# Write your code below this line 👇
-
 random_choice = random.randint(0, 2)
 if random_choice == 0:
     random_game = rock
